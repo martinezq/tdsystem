@@ -1,0 +1,41 @@
+#summary List of previous builds
+
+= Previous builds =
+
+== (2009-12-08) ==
+
+Changes:
+  * Turrents are aimming targets
+  * Hot zones displayed in red
+  * Pathfinding - the safest way
+  * Bullets
+  * Moved from JavaFX to Processing library
+
+<img src="http://tdsystem.googlecode.com/svn/wiki/img/sample4.png" width="600px"/>
+<br/>
+
+== (2009-11-11) ==
+
+Changes:
+  * Random maze
+  * Pathfinding (the shortest way so far)
+  * Some optimization
+
+<img src="http://tdsystem.googlecode.com/svn/wiki/img/sample3.png" width="600px"/>
+<br/>
+
+== (2009-10-21) == 
+
+Changes:
+  * Turrents now shut at these balls
+
+<img width="600" src="http://tdsystem.googlecode.com/svn/wiki/img/sample2.png"/>
+<br/>
+
+== (2009-10-13) ==
+
+Changes:
+  * Balls are moving and colliding walls and turrents
+
+<img width="600" src="http://tdsystem.googlecode.com/svn/wiki/img/sample1.png"/>
+<br/>

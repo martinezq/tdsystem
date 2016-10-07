@@ -1,0 +1,12 @@
+#summary List of things to do
+
+
+== Next build ==
+
+  * Player interaction
+
+== Future plans ==
+
+  * Improve graphics
+  * Add sounds
+  * Add user interface
